@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divyansh Awasthi</h1>
 
-<!--
-**divi025/divi025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Turning Ideas into Code | 🚀 Learning & Building Full Stack Projects</h3>
 
-Here are some ideas to get you started:
+<p align="center">✨ Consistency + Practice = Growth ✨</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divi025&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 BCA Student  
+- 💻 Passionate about Web Development  
+- 🌱 Currently learning Full Stack Development  
+- 🛠️ Building real-world projects  
+- 🎯 Goal: Become a professional developer  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60"/>
+  <img src="https://skillicons.dev/icons?i=js" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react" width="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+  <img src="https://skillicons.dev/icons?i=java" width="60"/>
+  <img src="https://skillicons.dev/icons?i=c" width="60"/>
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</p>
+
+<p align="center">
+  HTML &nbsp;&nbsp;&nbsp;
+  CSS &nbsp;&nbsp;&nbsp;
+  JavaScript &nbsp;&nbsp;&nbsp;
+  React &nbsp;&nbsp;&nbsp;
+  Node.js &nbsp;&nbsp;&nbsp;
+  MongoDB &nbsp;&nbsp;&nbsp;
+  Java &nbsp;&nbsp;&nbsp;
+  C &nbsp;&nbsp;&nbsp;
+  Python &nbsp;&nbsp;&nbsp;
+  Git &nbsp;&nbsp;&nbsp;
+  GitHub
+</p>
+
+---
+
+## 🚀 Projects
+- 🎁 Customized Gift Shop (MERN Stack)  
+- ❌⭕ Tic Tac Toe Game  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divi025&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divi025&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divi025&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 awasthidivyansh64@gmail.com  
+- 🔗 https://github.com/divi025
+- 💼 https://www.linkedin.com/in/divyansh-awasthi-a852a2324/  
+
+---
+
+⭐ From Divyansh Awasthi

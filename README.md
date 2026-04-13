@@ -35,20 +35,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
 </p>
 
-<p align="center">
-  HTML &nbsp;&nbsp;&nbsp;
-  CSS &nbsp;&nbsp;&nbsp;
-  JavaScript &nbsp;&nbsp;&nbsp;
-  React &nbsp;&nbsp;&nbsp;
-  Node.js &nbsp;&nbsp;&nbsp;
-  MongoDB &nbsp;&nbsp;&nbsp;
-  Java &nbsp;&nbsp;&nbsp;
-  C &nbsp;&nbsp;&nbsp;
-  Python &nbsp;&nbsp;&nbsp;
-  Git &nbsp;&nbsp;&nbsp;
-  GitHub
-</p>
-
 ---
 
 ## 🚀 Projects
